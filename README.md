@@ -14,7 +14,7 @@ dashing start -p 8888
 
 # creating dashboards
 ```
-dashing generate dashboard <NAME:
+dashing generate dashboard <NAME>
 ```
 
 # creating jobs
